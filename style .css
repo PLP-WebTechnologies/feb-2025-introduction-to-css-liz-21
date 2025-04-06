@@ -1,0 +1,36 @@
+/* Use of class selector */
+.main-heading {
+  font-family: 'Georgia', serif;
+  color: darkblue;
+  margin-bottom: 20px;
+}
+
+/* Use of ID selector */
+#intro {
+  font-size: 16px;
+  padding: 10px;
+  color: #333;
+}
+
+/* Use of element selector */
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+/* Style an image */
+.styled-image {
+  border: 4px solid #555;
+  padding: 5px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+/* Box with margin, padding, and border */
+.content-box {
+  border: 2px dashed #888;
+  padding: 15px;
+  margin-top: 25px;
+  background-color: #fff;
+}
